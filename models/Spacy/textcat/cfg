@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "Black Rot",
+    "Esca",
+    "Flavescence dor\u00e9e",
+    "Mildiou",
+    "O\u00efdium"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
